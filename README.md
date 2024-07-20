@@ -11,6 +11,4 @@ Also used [formspree](https://formspree.io) in contact form.
 
 
 
-
-
-
+*Note: In about.php in this [line](https://github.com/winston-dsouza/Planet-Shopify-ecommerce-website/blob/master/about.php#L71) enter your email* and activate the form
